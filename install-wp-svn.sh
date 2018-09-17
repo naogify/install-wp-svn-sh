@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-mkdir ~/Desktop/wordpress-svn
-cd ~/Desktop/wordpress-svn
+mkdir ./wordpress-svn
+cd ./wordpress-svn
 svn co https://develop.svn.wordpress.org/trunk/ .
